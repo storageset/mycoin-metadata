@@ -1,13 +1,13 @@
 {
-    "name": "MyCoin",
-    "symbol": "MCN",
+    "name": "FOMO Inu",
+    "symbol": "FMI",
     "description": "My custom Solana token",
-    "image": "https://raw.githubusercontent.com/yourusername/your-metadata-repo/main/logo.png",
+    "image": "https://github.com/storageset/mycoin-metadata/blob/master/logo.png",
     "attributes": [],
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/yourusername/your-metadata-repo/main/logo.png",
+                "uri": "https://github.com/storageset/mycoin-metadata/blob/master/logo.png",
                 "type": "image/png"
             }
         ]
