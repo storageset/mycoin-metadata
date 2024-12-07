@@ -1,0 +1,15 @@
+{
+    "name": "MyCoin",
+    "symbol": "MCN",
+    "description": "My custom Solana token",
+    "image": "https://raw.githubusercontent.com/yourusername/your-metadata-repo/main/logo.png",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/yourusername/your-metadata-repo/main/logo.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
