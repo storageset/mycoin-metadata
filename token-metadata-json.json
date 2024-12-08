@@ -1,14 +1,14 @@
 {
     "name": "FOMO Inu",
     "symbol": "FMI",
-    "description": "My custom Solana token",
-    "image": "https://github.com/storageset/mycoin-metadata/blob/master/logo.png",
+    "description": "FOMO Inu Token on Solana",
+    "image": "https://raw.githubusercontent.com/storageset/mycoin-metadata/master/logo.png",
     "external_url": "",
     "attributes": [],
     "properties": {
         "files": [
             {
-                "uri": "https://github.com/storageset/mycoin-metadata/blob/master/logo.png",
+                "uri": "https://raw.githubusercontent.com/storageset/mycoin-metadata/master/logo.png",
                 "type": "image/png"
             }
         ],
